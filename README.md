@@ -74,6 +74,10 @@ adb shell appops set my.solat.launcher GET_USAGE_STATS allow
 
 > If you already use another accessibility service, the `enabled_accessibility_services` line replaces it. In that case, turn the service on from **Settings › System › Accessibility › Solat Launcher Home button** instead.
 
+### Optional: debloat your TV
+
+Remove preinstalled tracking, demo and unused apps, and speed up the menus. Everything is reversible. See the **[debloat guide](docs/DEBLOAT.md)**.
+
 ### Forgot the Kids mode PIN?
 
 Only a computer can reset it, so a child can't:
