@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0C1424</color>
+    <style name="Theme.Solat" parent="@android:style/Theme.Material.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:colorAccent">#E3B55B</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+</resources>

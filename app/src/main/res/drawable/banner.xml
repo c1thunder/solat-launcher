@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#0C1424" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/crescent" android:gravity="center" android:width="80dp" android:height="80dp" />
+</layer-list>
